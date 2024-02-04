@@ -1,0 +1,25 @@
+{
+    "name": "Julie Anderson DVM",
+    "age": 89,
+    "address": {
+        "street": "Tiffany Route",
+        "city": "Westland",
+        "state": "Oregon",
+        "zip": "59509"
+    },
+    "contact": {
+        "phone": "815-226-1101x797",
+        "servicePhone": "800784988"
+    },
+    "birthday": "1936-12-07",
+    "ip": "217.63.132.36",
+    "foo": "bar",
+    "profile": {
+        "about": "According give nation peace. Consumer media staff collection fund identify small. If hear reduce.\nNow their fall see beautiful official.",
+        "bio": "Language accept east his fact reason food large. Billion around fast note. Ever card style.\nChild finish no story front run however. Hair past establish instead wrong charge."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
