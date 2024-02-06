@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Rhodes",
+    "age": 112,
+    "address": {
+        "street": "Jennifer Canyon",
+        "city": "New Lawrenceshire",
+        "state": "Alabama",
+        "zip": "45115"
+    },
+    "contact": {
+        "phone": "827.508.3963x65020",
+        "servicePhone": "800100492"
+    },
+    "birthday": "1913-24-10",
+    "ip": "143.34.143.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Follow low capital good thank. Behavior mother policy. Require drop today oil sea really.\nNotice kind certainly skin door rock my customer. Space when close chance. Leg experience point.",
+        "bio": "Past red measure century together. Strategy than study owner direction finish."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
