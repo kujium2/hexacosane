@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Jenkins",
+    "age": 97,
+    "address": {
+        "street": "Jones Meadow",
+        "city": "Schmidtchester",
+        "state": "New Jersey",
+        "zip": "79974"
+    },
+    "contact": {
+        "phone": "670.337.2675",
+        "servicePhone": "800900907"
+    },
+    "birthday": "1928-05-02",
+    "ip": "29.11.245.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Citizen part identify notice fire. Glass yourself future again join.\nTrouble western whether drug artist public spring my. Perform recent last person after attorney.",
+        "bio": "Investment protect wish kind key you air. Church if thought forget. While simply father on one. Smile continue entire Mr."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
