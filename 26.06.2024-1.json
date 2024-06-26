@@ -1,0 +1,25 @@
+{
+    "name": "Robert Daniel",
+    "age": 84,
+    "address": {
+        "street": "Alexandra Crest",
+        "city": "West Amber",
+        "state": "New Hampshire",
+        "zip": "65210"
+    },
+    "contact": {
+        "phone": "+1-847-702-7165x7631",
+        "servicePhone": "800180613"
+    },
+    "birthday": "1941-18-06",
+    "ip": "60.109.124.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Woman general table seat. Network information career professor begin than.\nDespite summer look. Box despite relate like very. Great method fear between nation. Question manager produce term well.",
+        "bio": "Tend something best paper tend medical executive. Want what include economic. Avoid commercial run field already out woman.\nGeneration really public left. Sense rise until thousand someone easy."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
