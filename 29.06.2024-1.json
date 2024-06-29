@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Brandt",
+    "age": 85,
+    "address": {
+        "street": "Charles Green",
+        "city": "Tracietown",
+        "state": "Maine",
+        "zip": "86754"
+    },
+    "contact": {
+        "phone": "643-311-1631",
+        "servicePhone": "800713710"
+    },
+    "birthday": "1940-09-12",
+    "ip": "210.133.165.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Production quality begin director since onto.\nCare pass eight boy fact never. Think suffer yet certain deal note.",
+        "bio": "Take me million last. Usually country within father least artist despite under. Arrive behind discussion more."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
