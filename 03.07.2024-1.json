@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Crane",
+    "age": 41,
+    "address": {
+        "street": "Fernandez Via",
+        "city": "Port Martinview",
+        "state": "South Dakota",
+        "zip": "46803"
+    },
+    "contact": {
+        "phone": "508-368-7292x46321",
+        "servicePhone": "800720908"
+    },
+    "birthday": "1984-29-12",
+    "ip": "204.124.50.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Along room relationship feeling. Air person far. Truth table while response ok institution school computer.",
+        "bio": "Dog order instead million land make. Degree positive buy test. Example any cover sort line TV lawyer. Anyone drive citizen trip or hand."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
