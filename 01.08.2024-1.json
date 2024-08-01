@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Bryant",
+    "age": 32,
+    "address": {
+        "street": "Lauren Road",
+        "city": "Davidhaven",
+        "state": "Vermont",
+        "zip": "69059"
+    },
+    "contact": {
+        "phone": "001-375-805-0616x646",
+        "servicePhone": "800648765"
+    },
+    "birthday": "1993-17-04",
+    "ip": "39.127.83.36",
+    "foo": "bar",
+    "profile": {
+        "about": "Five cultural but here add identify. Doctor clearly deep blood worry help. Economy trip think pull create study.",
+        "bio": "Parent where education create purpose.\nIt position kind simple nation series.\nFirm responsibility age evidence agent likely. Southern door buy school clear give necessary."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
