@@ -1,0 +1,25 @@
+{
+    "name": "Wayne Morris",
+    "age": 54,
+    "address": {
+        "street": "Daniel Meadows",
+        "city": "Lake Victoria",
+        "state": "Texas",
+        "zip": "55166"
+    },
+    "contact": {
+        "phone": "339-732-4746",
+        "servicePhone": "800643607"
+    },
+    "birthday": "1971-29-04",
+    "ip": "217.2.243.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Would in design sure open. Camera save eat during investment whom.\nBest yard opportunity political how population. Skill style letter.",
+        "bio": "Little cultural method care itself. Education arrive economic line deal. Billion reality need culture well out defense.\nActually building less debate itself. Hear skin administration spring."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
