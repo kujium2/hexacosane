@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Mitchell",
+    "age": 25,
+    "address": {
+        "street": "Amy Inlet",
+        "city": "West Coltonhaven",
+        "state": "Arkansas",
+        "zip": "74593"
+    },
+    "contact": {
+        "phone": "+1-491-596-6643x4717",
+        "servicePhone": "800009159"
+    },
+    "birthday": "2000-12-06",
+    "ip": "180.2.80.182",
+    "foo": "bar",
+    "profile": {
+        "about": "System offer group tax response whatever remember strong. Easy picture huge.",
+        "bio": "Foreign moment economic particular wrong radio sing rich. Wind challenge high behind assume serious. Test be true later best range."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
