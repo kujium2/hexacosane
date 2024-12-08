@@ -1,0 +1,25 @@
+{
+    "name": "Robert Thornton",
+    "age": 78,
+    "address": {
+        "street": "Arthur Mountains",
+        "city": "Port Danielside",
+        "state": "Alabama",
+        "zip": "65668"
+    },
+    "contact": {
+        "phone": "+1-212-307-6972x00580",
+        "servicePhone": "800480142"
+    },
+    "birthday": "1947-10-11",
+    "ip": "29.77.32.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Best light tend player other now avoid. Minute night car win which return direction final.\nLevel whom carry cover lose decade.",
+        "bio": "Character several reach traditional final wish. Defense than election responsibility customer."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
